@@ -1,5 +1,5 @@
-# laravel
-web laravel con conexión a base de datos y,  bootstrap
+# laravel - Curso fullstack
+proyecto laravel con conexión a base de datos y,  bootstrap. 
 
 _para loguearse:_
 
@@ -8,5 +8,6 @@ _para loguearse:_
 > password: 12345678
 
 
-la web también tiene la funcionalidad de crear un nuevo usuario
+La web también tiene la funcionalidad de crear un nuevo usuario
 
+Por otro lado el proyecto ya tiene los modelos, migraciones y seeders generados.
