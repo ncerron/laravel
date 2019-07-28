@@ -1,5 +1,5 @@
-# laravel - Curso fullstack
-proyecto laravel con conexión a base de datos y,  bootstrap. 
+# Laravel - Curso fullstack
+Proyecto laravel con conexión a base de datos y,  bootstrap. 
 
 _para loguearse:_
 
